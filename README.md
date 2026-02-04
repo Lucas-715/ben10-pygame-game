@@ -54,14 +54,14 @@ Um jogo de sobrevivência estilo *Roguelite* desenvolvido em **Python** com a bi
 
 ## ⌨️ Controles
 
-#Setas / WASD: Movimentação.
+* Setas / WASD: Movimentação.
 
-#Z: Ataque Primário.
+* Z: Ataque Primário.
 
-#X: Habilidade Especial.
+* X: Habilidade Especial.
 
-#SHIFT: Dash Elétrico (Esquiva).
+* SHIFT: Dash Elétrico (Esquiva).
 
-#Vírgula (,) / Ponto (.): Selecionar Alien no Omnitrix.
+* Vírgula (,) / Ponto (.): Selecionar Alien no Omnitrix.
 
-##ENTER: Confirmar Transformação / Iniciar Jogo.
+* ##ENTER: Confirmar Transformação / Iniciar Jogo.
