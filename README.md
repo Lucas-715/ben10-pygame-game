@@ -22,7 +22,7 @@ Um jogo de sobrevivência estilo *Roguelite* desenvolvido em **Python** com a bi
 | ![Ben](assets/images/player/ben.png) | ![Chama](assets/images/player/chama.png) | ![4B](assets/images/player/quatro_bracos.png) | ![XLR8](assets/images/player/xlr8.png) | ![Diamante](assets/images/player/diamante.png) |
 
 ### **Inimigos e Itens**
-| Cavaleiro Nível 1 | Cavaleiro Nível 2 | Baú Mágico |
+| Cavaleiro Nível 1 | Cavaleiro Nível 2 |
 | :---: | :---: | :---: |
 | ![Inimigo 1](assets/images/enemies/cavaleiro_nivel1.png) | ![Inimigo 2](assets/images/enemies/cavaleiro_nivel2.png) |
 
