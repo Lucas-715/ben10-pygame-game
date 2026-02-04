@@ -33,3 +33,21 @@ O desenvolvimento deste projeto focou em práticas modernas de arquitetura de so
 2. Instale as dependências:
    ```bash
    pip install pygame
+   ```
+3. Clone o repositório:
+   ```bash
+   git clone [https://github.com/Lucas-715/ben10-survival-pygame.git](https://github.com/Lucas-715/ben10-survival-pygame.git)
+   ```
+4. Execute o Arquivo Principal
+   ```bash
+   pip install pygame
+   ```
+
+⌨️ Controles
+
+Setas / WASD: Movimentação.
+Z: Ataque Primário.
+X: Habilidade Especial.
+SHIFT: Dash Elétrico.
+Vírgula (,) / Ponto (.): Selecionar Alien no Omnitrix.
+ENTER: Confirmar Transformação / Iniciar Jogo.
