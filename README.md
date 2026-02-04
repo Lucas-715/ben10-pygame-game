@@ -24,7 +24,12 @@ Um jogo de sobrevivência estilo *Roguelite* desenvolvido em **Python** com a bi
 ### **Inimigos e Itens**
 | Cavaleiro Nível 1 | Cavaleiro Nível 2 | Baú Mágico |
 | :---: | :---: | :---: |
-| ![Inimigo 1](assets/images/enemies/cavaleiro_nivel1.png) | ![Inimigo 2](assets/images/enemies/cavaleiro_nivel2.png) | ![Baú](assets/images/objects/bau_magico.png) |
+| ![Inimigo 1](assets/images/enemies/cavaleiro_nivel1.png) | ![Inimigo 2](assets/images/enemies/cavaleiro_nivel2.png) |
+
+### **Itens e Objetos**
+| Baú Mágico | Orbe de Vida |
+| :---: | :---: |
+| ![Baú](assets/images/objects/bau_magico.png) | ![Vida](assets/images/ui/vida.png) |
 
 ---
 
