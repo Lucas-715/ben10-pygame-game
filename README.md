@@ -45,14 +45,14 @@ Um jogo de sobrevivência estilo *Roguelite* desenvolvido em **Python** com a bi
    ```
 3. Clone o repositório:
    ```bash
-   git clone [https://github.com/Lucas-715/ben10-survival-pygame.git](https://github.com/Lucas-715/ben10-survival-pygame.git)
+   git clone https://github.com/Lucas-715/ben10-survival-pygame.git
    ```
 4. Execute o Arquivo Principal
    ```bash
    pip install pygame
    ```
 
-⌨️ Controles
+## ⌨️ Controles
 
 Setas / WASD: Movimentação.
 Z: Ataque Primário.
