@@ -1,5 +1,7 @@
 # 👽 Ben 10: A Ameaça Eterna 2D
 
+🔗 **Repositório de Lógica e Automação:** [Clique aqui](https://github.com/Lucas-715/python-logic-automation)
+
 Um jogo de sobrevivência estilo *Roguelite* desenvolvido em **Python** com a biblioteca **Pygame**. O projeto desafia o jogador a sobreviver a hordas de Cavaleiros Eternos utilizando o icônico Omnitrix para se transformar em diferentes formas alienígenas, cada uma com habilidades únicas.
 
 ---
@@ -8,24 +10,31 @@ Um jogo de sobrevivência estilo *Roguelite* desenvolvido em **Python** com a bi
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=4FC08D)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🎮 Galeria de Transformações
+## 🎮 Galeria do Jogo
 
+### **Transformações do Jogador**
 | Ben | Chama | Quatro Braços | XLR8 | Diamante |
 | :---: | :---: | :---: | :---: | :---: |
 | ![Ben](assets/images/player/ben.png) | ![Chama](assets/images/player/chama.png) | ![4B](assets/images/player/quatro_bracos.png) | ![XLR8](assets/images/player/xlr8.png) | ![Diamante](assets/images/player/diamante.png) |
 
+### **Inimigos e Itens**
+| Cavaleiro Nível 1 | Cavaleiro Nível 2 | Baú Mágico |
+| :---: | :---: | :---: |
+| ![Inimigo 1](assets/images/enemies/cavaleiro_nivel1.png) | ![Inimigo 2](assets/images/enemies/cavaleiro_nivel2.png) | ![Baú](assets/images/objects/bau_magico.png) |
+
+---
+
 ## 🧠 Conceitos de Engenharia de Software Aplicados
 
-O desenvolvimento deste projeto focou em práticas modernas de arquitetura de software:
-
-* **Máquina de Estados Finita (FSM):** Gerenciamento robusto dos estados do jogo (`Menu`, `Gameplay`, `LevelUp`, `GameOver`) e estados do jogador (`Normal`, `Dash`, `SuperPulo`).
-* **Data-Driven Design:** As estatísticas e habilidades dos aliens são configuradas em dicionários modulares (`ALIEN_DATA`), permitindo balanceamento rápido sem alterar a lógica principal.
-* **Matemática Vetorial:** Uso de `pygame.math.Vector2` para movimentação fluida, detecção de colisão circular e lógica de projéteis.
-* **Sistemas de Partículas e Feedback:** Implementação de *Screen Shake*, textos flutuantes de dano e partículas para aumentar o *game feel*.
-* **Sistema de XP e Upgrades:** Lógica de progressão utilizando funções *lambda* e escolha aleatória de habilidades ao subir de nível.
+* **Máquina de Estados Finita (FSM):** Gerenciamento de estados como `Menu`, `Gameplay`, `LevelUp` e `GameOver`.
+* **Data-Driven Design:** Estatísticas e habilidades configuradas em dicionários modulares (`ALIEN_DATA`) para fácil balanceamento.
+* **Matemática Vetorial:** Uso de `pygame.math.Vector2` para movimentação, colisões e lógica de projéteis.
+* **Feedback Visual (Game Feel):** Implementação de *Screen Shake*, partículas e textos flutuantes de dano.
+* **Programação Funcional:** Lógica de progressão e upgrades utilizando funções `lambda`.
 
 ## 🚀 Como Executar o Projeto
 
