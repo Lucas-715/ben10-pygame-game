@@ -49,14 +49,19 @@ Um jogo de sobrevivência estilo *Roguelite* desenvolvido em **Python** com a bi
    ```
 4. Execute o Arquivo Principal
    ```bash
-   pip install pygame
+   python main.py
    ```
 
 ## ⌨️ Controles
 
 Setas / WASD: Movimentação.
+
 Z: Ataque Primário.
+
 X: Habilidade Especial.
-SHIFT: Dash Elétrico.
+
+SHIFT: Dash Elétrico (Esquiva).
+
 Vírgula (,) / Ponto (.): Selecionar Alien no Omnitrix.
+
 ENTER: Confirmar Transformação / Iniciar Jogo.
