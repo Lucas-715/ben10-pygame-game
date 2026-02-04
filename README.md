@@ -64,4 +64,4 @@ Um jogo de sobrevivência estilo *Roguelite* desenvolvido em **Python** com a bi
 
 * Vírgula (,) / Ponto (.): Selecionar Alien no Omnitrix.
 
-** ENTER: Confirmar Transformação / Iniciar Jogo.
+* ** ENTER: Confirmar Transformação / Iniciar Jogo.**
