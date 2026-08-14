@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Logs e dados locais
+*.log
+game_log.txt
+scores.json
+
+# Sistema
+.DS_Store
+Thumbs.db
